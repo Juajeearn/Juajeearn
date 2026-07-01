@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Tiny Programmer born out of a pain in the ass.<br>
+: Get your github commit only email address
+
+
+WIP:<br>
+My PC initial setup tool.
+
+# My Blog
+[Tech Blog](https://blog.atolycs.dev)
 <!--
 **Juajeearn/Juajeearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
